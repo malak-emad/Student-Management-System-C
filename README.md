@@ -15,3 +15,5 @@ A simple C program that manages student records such as adding, updating, deleti
 1. Compile the project using a C compiler like GCC:
    ```bash
    gcc main.c -o StudentManagementSystem
+2. Run the executable:
+   ./StudentManagementSystem
