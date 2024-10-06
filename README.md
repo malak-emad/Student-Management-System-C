@@ -16,4 +16,5 @@ A simple C program that manages student records such as adding, updating, deleti
    ```bash
    gcc main.c -o StudentManagementSystem
 2. Run the executable:
-   ./StudentManagementSystem
+   StudentManagementSystem.exe
+
